@@ -1,0 +1,139 @@
+/* *{
+    background-color: #f2e9e4;
+} */
+
+body {
+    letter-spacing: 1px;
+    background-color: rgb(229, 238, 238) !important;
+}
+
+.fw-600 {
+    font-weight: 600;
+}
+
+.fw-700 {
+    font-weight: 700;
+}
+
+.fw-900 {
+    font-weight: 900;
+}
+
+
+.fs-20 {
+    font-size: 20px;
+}
+
+.fs-24 {
+    font-size: 24px;
+}
+
+.navbar {
+    background-image: url(img/moon-sky-night-background-asset-game-2d-futuristic-generative-ai_191095-2071.avif);
+    height: 80vh;
+    border-bottom-right-radius: 60%;
+
+
+}
+
+
+.color1 {
+    color: #2d3142;
+}
+
+.color2 {
+    color: #4f5d75;
+}
+
+
+
+.img {
+    height: 100%;
+    width: 100%;
+    border-radius: 5%;
+}
+
+.border1 {
+    border-right: 7px solid #0e98b0;
+    border-left: 7px solid #63096d;
+    padding: 20px;
+    border-top-right-radius: 30px;
+    border-bottom-left-radius: 30px;
+}
+
+.button {
+    width: 100px;
+    height: 40px;
+    background-color: #63096d;
+    border-radius: 10px;
+    color: aliceblue;
+
+}
+
+.button2 {
+    width: 100px;
+    height: 40px;
+    background: linear-gradient(#4f5d75,#63096d );
+    border-radius: 10px;
+    color: aliceblue;
+
+}
+
+.button:hover{
+    width: 120px;
+    height: 50px;
+    transition: all 0.5s;
+    background: #0e98b0;
+
+}
+.button2:hover{
+    width: 100px;
+    height: 40px;
+    transition: all 0.5s;
+    background: #0e98b0;
+
+}
+
+
+.form {
+    background-color: #4f5d75;
+    font-size: 20px;
+    font-weight: 600;
+    color: white;
+
+}
+
+.box {
+    
+background: linear-gradient(#4f5d75,#63096d );
+    min-height: 100%;
+
+}
+
+.footer-style {
+    margin-top: 100px;
+}
+
+
+
+.footer-social-media:hover{
+    color: #fff;
+    width: 35px;
+    height: 35px;
+    transition: all 0.5s;
+}
+.go-top-btn{
+    position: fixed;
+    bottom: 60px;
+    right: 60px;
+    width: 60px;
+    height: 60px;
+    background-color:#0e98b0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50%;
+    z-index: 99;
+    text-decoration: none;
+    
+}
